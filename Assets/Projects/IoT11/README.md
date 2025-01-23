@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Member-Burla_Rushyendra_Reddy-gold)  ![](https://img.shields.io/badge/Member-Palakurty_Roopak_Naga_Venkata_Sree_Sai-gold)  ![](https://img.shields.io/badge/Member-Yallanuru_Kishan_Sai-gold)  
 ![](https://img.shields.io/badge/SDG-3-darkgreen) ![](https://img.shields.io/badge/SDG-9-darkgreen) ![](https://img.shields.io/badge/SDG-11-darkgreen)  
-![](https://img.shields.io/badge/Reviewed-06th_Jan_2025-brown)
+<!--![](https://img.shields.io/badge/Reviewed-06th_Jan_2025-brown)-->
 
 ---
 
